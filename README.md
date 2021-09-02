@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="SELF-HX" width="300" />
 
-# DAHLAH
+# EqxxBot
 
 >
 >
@@ -17,15 +17,15 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> git clone https://github.com/eqxxyt/eqxxbot01
+> cd eqxxbot01
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> git clone https://github.com/eqxxyt/eqxxbot01
+> cd eqxxbot01
 > npm i
 > npm start/node main.js
 ```
