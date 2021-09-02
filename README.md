@@ -8,9 +8,9 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/Hexagonz"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/eqxxyt"><img title="Author" src="https://img.shields.io/badge/Author-EqxxYT-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285751056816">Bagus Pak :v </a>
+  <a href="https://wa.me/6285821669394">Bagus Pak :v </a>
 </h4>
 </p>
 
@@ -114,6 +114,7 @@
 | X |✅|
 
   # MAKASIH LORT
+* [`KizakiXD`](https://github.com/kiZakiXD
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
